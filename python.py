@@ -1,1 +1,1 @@
-print('welcome to redshift Deployment')
+print('welcome to redshift Deploy')
